@@ -4,7 +4,7 @@ Flutter project tracking internet connectivity following Bloc Pattern.
 
 ## Getting Started
 
-You can turn your internet connection on/off to track changes in your application.
+You can turn your internet connection on/off to track changes in the application.
 
 A few resources to get you started if this is your first Flutter/Bloc project:
 
