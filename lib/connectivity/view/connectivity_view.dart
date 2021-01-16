@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_connectivity/connectivity/view/view.dart';
+import 'package:flutter_connectivity/connectivity/view/view.dart'
+    show ConnectivityUI;
 
 class ConnectivityView extends StatelessWidget {
   const ConnectivityView({Key key}) : super(key: key);
